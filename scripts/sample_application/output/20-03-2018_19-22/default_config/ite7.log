@@ -1,0 +1,603 @@
+Simulation started at 20/03/2018 19:39:25
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:25
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 100
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 5992(5992/0)
+# of failed tasks (Cloudlet/Cloud): 89(89/0)
+# of completed tasks (Cloudlet/Cloud): 5903(5903/0)
+# of uncompleted tasks (Cloudlet/Cloud): 17(17/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 28/0/0/44
+percentage of failed tasks: 1.485314%
+average service time: 1.991038 seconds. (on Cloudlet: 1.991038, on Cloud: NaN)
+average processing time: 1.971956 seconds. (on Cloudlet: 1.971956, on Cloud: NaN)
+average netwrok delay: 0.019082 seconds. (LAN delay: 0.019082, WAN delay: NaN)
+average server utilization: 7.886755%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:39:32. It took 6 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:32
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 100
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 6023(4820/1203)
+# of failed tasks (Cloudlet/Cloud): 58(54/4)
+# of completed tasks (Cloudlet/Cloud): 5965(4766/1199)
+# of uncompleted tasks (Cloudlet/Cloud): 6(6/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 2/0/0/50
+percentage of failed tasks: 0.962975%
+average service time: 1.523779 seconds. (on Cloudlet: 1.765946, on Cloud: 0.561170)
+average processing time: 1.413433 seconds. (on Cloudlet: 1.746927, on Cloud: 0.087800)
+average netwrok delay: 0.110346 seconds. (LAN delay: 0.019019, WAN delay: 0.473370)
+average server utilization: 5.672111%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:39:35. It took 3 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:35
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 100
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 6656(5293/1363)
+# of failed tasks (Cloudlet/Cloud): 76(68/8)
+# of completed tasks (Cloudlet/Cloud): 6580(5225/1355)
+# of uncompleted tasks (Cloudlet/Cloud): 14(14/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 0/0/0/62
+percentage of failed tasks: 1.141827%
+average service time: 1.585952 seconds. (on Cloudlet: 1.849860, on Cloud: 0.568299)
+average processing time: 1.465908 seconds. (on Cloudlet: 1.821464, on Cloud: 0.094854)
+average netwrok delay: 0.120044 seconds. (LAN delay: 0.028396, WAN delay: 0.473446)
+average server utilization: 6.407933%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:39:38. It took 2 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:38
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 200
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 11845(11845/0)
+# of failed tasks (Cloudlet/Cloud): 501(501/0)
+# of completed tasks (Cloudlet/Cloud): 11344(11344/0)
+# of uncompleted tasks (Cloudlet/Cloud): 22(22/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 366/0/0/113
+percentage of failed tasks: 4.229633%
+average service time: 2.177754 seconds. (on Cloudlet: 2.177754, on Cloud: NaN)
+average processing time: 2.158361 seconds. (on Cloudlet: 2.158361, on Cloud: NaN)
+average netwrok delay: 0.019393 seconds. (LAN delay: 0.019393, WAN delay: NaN)
+average server utilization: 16.855707%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:39:46. It took 8 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:46
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 200
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 11527(9164/2363)
+# of failed tasks (Cloudlet/Cloud): 256(249/7)
+# of completed tasks (Cloudlet/Cloud): 11271(8915/2356)
+# of uncompleted tasks (Cloudlet/Cloud): 21(20/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 146/0/0/89
+percentage of failed tasks: 2.220873%
+average service time: 1.869922 seconds. (on Cloudlet: 2.212945, on Cloud: 0.571936)
+average processing time: 1.754046 seconds. (on Cloudlet: 2.193482, on Cloud: 0.091241)
+average netwrok delay: 0.115876 seconds. (LAN delay: 0.019463, WAN delay: 0.480695)
+average server utilization: 13.290560%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:39:53. It took 7 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:53
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 200
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 11083(8781/2302)
+# of failed tasks (Cloudlet/Cloud): 99(94/5)
+# of completed tasks (Cloudlet/Cloud): 10984(8687/2297)
+# of uncompleted tasks (Cloudlet/Cloud): 16(15/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 0/0/0/83
+percentage of failed tasks: 0.893260%
+average service time: 1.441761 seconds. (on Cloudlet: 1.672284, on Cloud: 0.569949)
+average processing time: 1.318803 seconds. (on Cloudlet: 1.643605, on Cloud: 0.090440)
+average netwrok delay: 0.122958 seconds. (LAN delay: 0.028679, WAN delay: 0.479509)
+average server utilization: 9.855528%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:39:59. It took 5 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:39:59
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 300
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 18152(18152/0)
+# of failed tasks (Cloudlet/Cloud): 1314(1314/0)
+# of completed tasks (Cloudlet/Cloud): 16838(16838/0)
+# of uncompleted tasks (Cloudlet/Cloud): 54(54/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 1052/0/0/208
+percentage of failed tasks: 7.238872%
+average service time: 2.425570 seconds. (on Cloudlet: 2.425570, on Cloud: NaN)
+average processing time: 2.405874 seconds. (on Cloudlet: 2.405874, on Cloud: NaN)
+average netwrok delay: 0.019696 seconds. (LAN delay: 0.019696, WAN delay: NaN)
+average server utilization: 27.831120%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:40:21. It took 21 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:40:21
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 300
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 17781(14198/3583)
+# of failed tasks (Cloudlet/Cloud): 699(686/13)
+# of completed tasks (Cloudlet/Cloud): 17082(13512/3570)
+# of uncompleted tasks (Cloudlet/Cloud): 42(40/2)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 511/0/0/146
+percentage of failed tasks: 3.931162%
+average service time: 1.939080 seconds. (on Cloudlet: 2.300382, on Cloud: 0.571598)
+average processing time: 1.822008 seconds. (on Cloudlet: 2.280631, on Cloud: 0.086180)
+average netwrok delay: 0.117072 seconds. (LAN delay: 0.019751, WAN delay: 0.485418)
+average server utilization: 20.610194%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:40:39. It took 18 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:40:39
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 300
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 18484(14717/3767)
+# of failed tasks (Cloudlet/Cloud): 151(140/11)
+# of completed tasks (Cloudlet/Cloud): 18333(14577/3756)
+# of uncompleted tasks (Cloudlet/Cloud): 23(22/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 0/0/0/128
+percentage of failed tasks: 0.816923%
+average service time: 1.564626 seconds. (on Cloudlet: 1.818832, on Cloud: 0.578055)
+average processing time: 1.442136 seconds. (on Cloudlet: 1.789792, on Cloud: 0.092884)
+average netwrok delay: 0.122490 seconds. (LAN delay: 0.029040, WAN delay: 0.485172)
+average server utilization: 17.723439%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:40:54. It took 14 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:40:54
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 400
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 23281(23281/0)
+# of failed tasks (Cloudlet/Cloud): 3902(3902/0)
+# of completed tasks (Cloudlet/Cloud): 19379(19379/0)
+# of uncompleted tasks (Cloudlet/Cloud): 45(45/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 3649/0/0/208
+percentage of failed tasks: 16.760448%
+average service time: 2.712603 seconds. (on Cloudlet: 2.712603, on Cloud: NaN)
+average processing time: 2.692488 seconds. (on Cloudlet: 2.692488, on Cloud: NaN)
+average netwrok delay: 0.020114 seconds. (LAN delay: 0.020114, WAN delay: NaN)
+average server utilization: 35.413676%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:41:22. It took 28 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:41:22
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 400
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 22155(17611/4544)
+# of failed tasks (Cloudlet/Cloud): 1575(1560/15)
+# of completed tasks (Cloudlet/Cloud): 20580(16051/4529)
+# of uncompleted tasks (Cloudlet/Cloud): 45(45/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 1361/0/0/169
+percentage of failed tasks: 7.109005%
+average service time: 1.996231 seconds. (on Cloudlet: 2.395449, on Cloud: 0.581383)
+average processing time: 1.872071 seconds. (on Cloudlet: 2.375306, on Cloud: 0.088582)
+average netwrok delay: 0.124160 seconds. (LAN delay: 0.020144, WAN delay: 0.492802)
+average server utilization: 24.959620%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:41:45. It took 23 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:41:45
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 400
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 21730(17253/4477)
+# of failed tasks (Cloudlet/Cloud): 195(187/8)
+# of completed tasks (Cloudlet/Cloud): 21535(17066/4469)
+# of uncompleted tasks (Cloudlet/Cloud): 46(46/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 0/0/0/149
+percentage of failed tasks: 0.897377%
+average service time: 1.578424 seconds. (on Cloudlet: 1.839521, on Cloud: 0.581359)
+average processing time: 1.452816 seconds. (on Cloudlet: 1.810042, on Cloud: 0.088660)
+average netwrok delay: 0.125608 seconds. (LAN delay: 0.029479, WAN delay: 0.492699)
+average server utilization: 21.136935%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:42:01. It took 15 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:42:01
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 500
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 31289(31289/0)
+# of failed tasks (Cloudlet/Cloud): 8045(8045/0)
+# of completed tasks (Cloudlet/Cloud): 23244(23244/0)
+# of uncompleted tasks (Cloudlet/Cloud): 75(75/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 7671/0/0/299
+percentage of failed tasks: 25.711912%
+average service time: 3.018028 seconds. (on Cloudlet: 3.018028, on Cloud: NaN)
+average processing time: 2.997667 seconds. (on Cloudlet: 2.997667, on Cloud: NaN)
+average netwrok delay: 0.020361 seconds. (LAN delay: 0.020361, WAN delay: NaN)
+average server utilization: 47.621141%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:42:29. It took 27 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:42:29
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 500
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 30109(23960/6149)
+# of failed tasks (Cloudlet/Cloud): 3371(3352/19)
+# of completed tasks (Cloudlet/Cloud): 26738(20608/6130)
+# of uncompleted tasks (Cloudlet/Cloud): 77(76/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 3041/0/0/253
+percentage of failed tasks: 11.195988%
+average service time: 2.239041 seconds. (on Cloudlet: 2.729144, on Cloud: 0.591399)
+average processing time: 2.109207 seconds. (on Cloudlet: 2.708741, on Cloud: 0.093678)
+average netwrok delay: 0.129834 seconds. (LAN delay: 0.020403, WAN delay: 0.497721)
+average server utilization: 38.044688%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:43:02. It took 33 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:43:02
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 500
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 29892(23727/6165)
+# of failed tasks (Cloudlet/Cloud): 328(308/20)
+# of completed tasks (Cloudlet/Cloud): 29564(23419/6145)
+# of uncompleted tasks (Cloudlet/Cloud): 73(71/2)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 0/0/0/255
+percentage of failed tasks: 1.097284%
+average service time: 1.972686 seconds. (on Cloudlet: 2.335199, on Cloud: 0.591125)
+average processing time: 1.845194 seconds. (on Cloudlet: 2.305346, on Cloud: 0.091523)
+average netwrok delay: 0.127492 seconds. (LAN delay: 0.029853, WAN delay: 0.499601)
+average server utilization: 36.273331%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:43:44. It took 41 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:43:44
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 600
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 34799(34799/0)
+# of failed tasks (Cloudlet/Cloud): 11512(11512/0)
+# of completed tasks (Cloudlet/Cloud): 23287(23287/0)
+# of uncompleted tasks (Cloudlet/Cloud): 91(91/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 11095/0/0/326
+percentage of failed tasks: 33.081410%
+average service time: 3.097663 seconds. (on Cloudlet: 3.097663, on Cloud: NaN)
+average processing time: 3.076847 seconds. (on Cloudlet: 3.076847, on Cloud: NaN)
+average netwrok delay: 0.020816 seconds. (LAN delay: 0.020816, WAN delay: NaN)
+average server utilization: 49.248923%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:44:25. It took 41 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:44:25
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 600
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 36913(29331/7582)
+# of failed tasks (Cloudlet/Cloud): 6929(6907/22)
+# of completed tasks (Cloudlet/Cloud): 29984(22424/7560)
+# of uncompleted tasks (Cloudlet/Cloud): 73(72/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 6558/0/0/298
+percentage of failed tasks: 18.771165%
+average service time: 2.378245 seconds. (on Cloudlet: 2.978471, on Cloud: 0.597891)
+average processing time: 2.235078 seconds. (on Cloudlet: 2.957723, on Cloud: 0.091614)
+average netwrok delay: 0.143167 seconds. (LAN delay: 0.020748, WAN delay: 0.506277)
+average server utilization: 45.537509%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:45:09. It took 43 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:45:09
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 600
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 35857(28576/7281)
+# of failed tasks (Cloudlet/Cloud): 466(450/16)
+# of completed tasks (Cloudlet/Cloud): 35391(28126/7265)
+# of uncompleted tasks (Cloudlet/Cloud): 85(84/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 0/0/0/381
+percentage of failed tasks: 1.299607%
+average service time: 2.425649 seconds. (on Cloudlet: 2.897847, on Cloud: 0.597563)
+average processing time: 2.297882 seconds. (on Cloudlet: 2.867635, on Cloud: 0.092116)
+average netwrok delay: 0.127767 seconds. (LAN delay: 0.030212, WAN delay: 0.505447)
+average server utilization: 55.302405%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:45:53. It took 44 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:45:53
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 700
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 45477(45477/0)
+# of failed tasks (Cloudlet/Cloud): 17236(17236/0)
+# of completed tasks (Cloudlet/Cloud): 28241(28241/0)
+# of uncompleted tasks (Cloudlet/Cloud): 94(94/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 16666/0/0/476
+percentage of failed tasks: 37.900477%
+average service time: 3.397512 seconds. (on Cloudlet: 3.397512, on Cloud: NaN)
+average processing time: 3.376609 seconds. (on Cloudlet: 3.376609, on Cloud: NaN)
+average netwrok delay: 0.020903 seconds. (LAN delay: 0.020903, WAN delay: NaN)
+average server utilization: 66.316403%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:46:40. It took 47 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:46:40
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 700
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 43698(34668/9030)
+# of failed tasks (Cloudlet/Cloud): 9771(9750/21)
+# of completed tasks (Cloudlet/Cloud): 33927(24918/9009)
+# of uncompleted tasks (Cloudlet/Cloud): 75(74/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 9330/0/0/366
+percentage of failed tasks: 22.360291%
+average service time: 2.433625 seconds. (on Cloudlet: 3.095357, on Cloud: 0.603339)
+average processing time: 2.282243 seconds. (on Cloudlet: 3.074308, on Cloud: 0.091470)
+average netwrok delay: 0.151382 seconds. (LAN delay: 0.021049, WAN delay: 0.511868)
+average server utilization: 51.563173%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:47:24. It took 43 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:47:24
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 700
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 40598(32249/8349)
+# of failed tasks (Cloudlet/Cloud): 1067(1040/27)
+# of completed tasks (Cloudlet/Cloud): 39531(31209/8322)
+# of uncompleted tasks (Cloudlet/Cloud): 143(138/5)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 431/0/0/493
+percentage of failed tasks: 2.628208%
+average service time: 2.908676 seconds. (on Cloudlet: 3.523016, on Cloud: 0.604791)
+average processing time: 2.776372 seconds. (on Cloudlet: 3.492333, on Cloud: 0.091393)
+average netwrok delay: 0.132303 seconds. (LAN delay: 0.030683, WAN delay: 0.513398)
+average server utilization: 73.676418%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:48:21. It took 56 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:48:21
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 800
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 53236(53236/0)
+# of failed tasks (Cloudlet/Cloud): 24484(24484/0)
+# of completed tasks (Cloudlet/Cloud): 28752(28752/0)
+# of uncompleted tasks (Cloudlet/Cloud): 91(91/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 23830/0/0/563
+percentage of failed tasks: 45.991434%
+average service time: 3.459634 seconds. (on Cloudlet: 3.459634, on Cloud: NaN)
+average processing time: 3.438350 seconds. (on Cloudlet: 3.438350, on Cloud: NaN)
+average netwrok delay: 0.021284 seconds. (LAN delay: 0.021284, WAN delay: NaN)
+average server utilization: 69.326992%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:49:13. It took 52 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:49:13
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 800
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 46670(37077/9593)
+# of failed tasks (Cloudlet/Cloud): 10929(10900/29)
+# of completed tasks (Cloudlet/Cloud): 35741(26177/9564)
+# of uncompleted tasks (Cloudlet/Cloud): 83(83/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 10408/0/0/438
+percentage of failed tasks: 23.417613%
+average service time: 2.396384 seconds. (on Cloudlet: 3.048035, on Cloud: 0.612791)
+average processing time: 2.240545 seconds. (on Cloudlet: 3.026578, on Cloud: 0.089145)
+average netwrok delay: 0.155839 seconds. (LAN delay: 0.021458, WAN delay: 0.523646)
+average server utilization: 54.492103%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:50:06. It took 53 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:50:06
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 800
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 48689(38577/10112)
+# of failed tasks (Cloudlet/Cloud): 5577(5559/18)
+# of completed tasks (Cloudlet/Cloud): 43112(33018/10094)
+# of uncompleted tasks (Cloudlet/Cloud): 141(140/1)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 4798/0/0/638
+percentage of failed tasks: 11.454333%
+average service time: 3.226705 seconds. (on Cloudlet: 4.024907, on Cloud: 0.615747)
+average processing time: 3.080007 seconds. (on Cloudlet: 3.993560, on Cloud: 0.091727)
+average netwrok delay: 0.146698 seconds. (LAN delay: 0.031346, WAN delay: 0.524020)
+average server utilization: 90.112168%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:51:16. It took 1 Minute 9 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:51:16
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 900
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 56583(56583/0)
+# of failed tasks (Cloudlet/Cloud): 26238(26238/0)
+# of completed tasks (Cloudlet/Cloud): 30345(30345/0)
+# of uncompleted tasks (Cloudlet/Cloud): 101(101/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 25587/0/0/550
+percentage of failed tasks: 46.370818%
+average service time: 3.426013 seconds. (on Cloudlet: 3.426013, on Cloud: NaN)
+average processing time: 3.404333 seconds. (on Cloudlet: 3.404333, on Cloud: NaN)
+average netwrok delay: 0.021680 seconds. (LAN delay: 0.021680, WAN delay: NaN)
+average server utilization: 71.498564%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:52:31. It took 1 Minute 14 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:52:31
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 900
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 53143(42111/11032)
+# of failed tasks (Cloudlet/Cloud): 15177(15141/36)
+# of completed tasks (Cloudlet/Cloud): 37966(26970/10996)
+# of uncompleted tasks (Cloudlet/Cloud): 106(104/2)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 14609/0/0/462
+percentage of failed tasks: 28.558794%
+average service time: 2.431185 seconds. (on Cloudlet: 3.168306, on Cloud: 0.623241)
+average processing time: 2.261398 seconds. (on Cloudlet: 3.146502, on Cloud: 0.090493)
+average netwrok delay: 0.169788 seconds. (LAN delay: 0.021804, WAN delay: 0.532747)
+average server utilization: 59.098169%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:53:32. It took 1 Minute 1 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:53:32
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 900
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 55570(44112/11458)
+# of failed tasks (Cloudlet/Cloud): 10331(10308/23)
+# of completed tasks (Cloudlet/Cloud): 45239(33804/11435)
+# of uncompleted tasks (Cloudlet/Cloud): 138(136/2)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 9550/0/0/643
+percentage of failed tasks: 18.590966%
+average service time: 3.256528 seconds. (on Cloudlet: 4.146275, on Cloud: 0.626270)
+average processing time: 3.097791 seconds. (on Cloudlet: 4.114434, on Cloud: 0.092404)
+average netwrok delay: 0.158738 seconds. (LAN delay: 0.031842, WAN delay: 0.533866)
+average server utilization: 94.007538%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:54:52. It took 1 Minute 20 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:54:52
+Scenario: SINGLE_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 1000
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 57287(57287/0)
+# of failed tasks (Cloudlet/Cloud): 26493(26493/0)
+# of completed tasks (Cloudlet/Cloud): 30794(30794/0)
+# of uncompleted tasks (Cloudlet/Cloud): 96(96/0)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 25835/0/0/562
+percentage of failed tasks: 46.246094%
+average service time: 3.354731 seconds. (on Cloudlet: 3.354731, on Cloud: NaN)
+average processing time: 3.332623 seconds. (on Cloudlet: 3.332623, on Cloud: NaN)
+average netwrok delay: 0.022108 seconds. (LAN delay: 0.022108, WAN delay: NaN)
+average server utilization: 70.181263%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:55:47. It took 54 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:55:47
+Scenario: TWO_TIER - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 1000
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 60493(48295/12198)
+# of failed tasks (Cloudlet/Cloud): 18981(18939/42)
+# of completed tasks (Cloudlet/Cloud): 41512(29356/12156)
+# of uncompleted tasks (Cloudlet/Cloud): 80(75/5)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 18381/0/0/520
+percentage of failed tasks: 31.377184%
+average service time: 2.494492 seconds. (on Cloudlet: 3.265936, on Cloud: 0.631501)
+average processing time: 2.320631 seconds. (on Cloudlet: 3.243764, on Cloud: 0.091321)
+average netwrok delay: 0.173860 seconds. (LAN delay: 0.022171, WAN delay: 0.540181)
+average server utilization: 65.576095%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:56:53. It took 1 Minute 6 Seconds
+----------------------------------------------------------------------
+Scenario started at 20/03/2018 19:56:53
+Scenario: TWO_TIER_WITH_EO - Policy: NEXT_FIT - #iteration: 7
+Duration: 0.3333333333333333 hour(s) - Poisson: 5.0 - #devices: 1000
+Creating tasks...Done, 
+Creating device locations...Done.
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Cloudlet/Cloud): 57990(46172/11818)
+# of failed tasks (Cloudlet/Cloud): 11895(11860/35)
+# of completed tasks (Cloudlet/Cloud): 46095(34312/11783)
+# of uncompleted tasks (Cloudlet/Cloud): 140(138/2)
+# of failed tasks due to vm capacity/LAN bw/WAN bw/mobility: 11036/0/0/719
+percentage of failed tasks: 20.512157%
+average service time: 3.231844 seconds. (on Cloudlet: 4.123602, on Cloud: 0.635053)
+average processing time: 3.069400 seconds. (on Cloudlet: 4.091303, on Cloud: 0.093624)
+average netwrok delay: 0.162445 seconds. (LAN delay: 0.032299, WAN delay: 0.541429)
+average server utilization: 94.317121%
+average cost: 0.0$
+Scenario finished at 20/03/2018 19:58:14. It took 1 Minute 20 Seconds
+----------------------------------------------------------------------
+Simulation finished at 20/03/2018 19:58:14. It took 18 Minutes 48 Seconds

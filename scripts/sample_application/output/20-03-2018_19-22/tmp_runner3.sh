@@ -1,0 +1,2 @@
+/home/shashank/Downloads/EdgeCloudSim-master/scripts/sample_application/runner.sh /home/shashank/Downloads/EdgeCloudSim-master/scripts/sample_application/output/20-03-2018_19-22 default_config edge_devices.xml applications.xml 4
+/home/shashank/Downloads/EdgeCloudSim-master/scripts/sample_application/runner.sh /home/shashank/Downloads/EdgeCloudSim-master/scripts/sample_application/output/20-03-2018_19-22 default_config edge_devices.xml applications.xml 8
