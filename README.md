@@ -10,3 +10,11 @@ and current resource efficiency.
 Based on observation, enhancement in workload optimization algorithms is aimed
 by this work. The project also aims at providing pre-emption of services based on varying
 criteria such as privacy, latency, etc.
+
+Fog computing is an architecture that extends the traditionally
+centralized functions of cloud computing to the edge.
+
+### Requirements
+- NetBeans IDE/ Eclipse Oxygen
+- Min 4GB Ram and 20GB ROM
+- support Linux/Window Platform
